@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @matankleiner
-- 👀 I’m interested in machine learning, especially computer vision and data science. I'm alson interested in photonics and the connection of it to signal and image processing. 
-- I’m looking to collaborate on any intersting machine learning projects. 
+- 👀 I’m interested in machine learning, especially computer vision and data science. I'm alson interested in photonics and its connection to signal and image processing as well 
+- as application that combine it with machine learning of any kind. 
+- I’m looking to collaborate on any intersting projects that connected to the above. 
 - 📫 You can reach me at matankleiner@gmail.com 
 
 <!---
